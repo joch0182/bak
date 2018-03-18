@@ -2,7 +2,7 @@
 id: tutorials
 title: Tutorials for learning Torch
 layout: cvpr
-permalink: /docs/tutorials.html
+permalink: /docs/fees.html
 prev: getting-started.html
 ---
 
